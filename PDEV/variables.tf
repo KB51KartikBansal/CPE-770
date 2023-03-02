@@ -1,6 +1,6 @@
 variable "pdev_net_name"{
     type = string
-    default = "pdev-net"
+#     default = "pdev-net"
 }
 
 variable "nat_name"{
